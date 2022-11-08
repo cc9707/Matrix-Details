@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Matrix exercice
+//Matrix exercise
 
 
 int main() {
